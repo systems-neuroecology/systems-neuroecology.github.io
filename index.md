@@ -4,6 +4,8 @@ Quick description of what we are
 
 Organizers and photos
 
+Link to YouTube channel
+
 ## Upcoming speakers
 Dr. Lindy McBride
 
