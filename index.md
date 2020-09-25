@@ -4,7 +4,7 @@ We are excited to announce our [Systems Neuroecology seminar series](https://www
 
 ## Organizers:
 
-<img src="images/2020/09/july2020_sama.jpg" height="200" /> <img src="images/2020/09/adam.jpg" height="200" /> <img src="images/2020/09/emilydennis.jpg" height="200" /> <img src="images/2020/09/ahmed.png" height="200" />
+<img src="images/2020/09/july2020_sama.jpg" height="100" /> <img src="images/2020/09/adam.jpg" height="100" /> <img src="images/2020/09/emilydennis.jpg" height="100" /> <img src="images/2020/09/ahmed.png" height="100" />
 
 
 [Sama Ahmed](https://twitter.com/ColumboAhmed)
@@ -53,7 +53,7 @@ All talks are held Wednesdays from 12-1pm online through [World Wide Neuro](http
 
 [event link](https://www.crowdcast.io/e/melissa-coleman-systems) | [twitter](https://twitter.com/MelColemanLab) | [lab website](https://www.kecksci.claremont.edu/faculty/profile.asp?FacultyID=179)
 
-___________
+### 2021
 
 ### January 13, 2021
 **Dr. Orit Peleg**
