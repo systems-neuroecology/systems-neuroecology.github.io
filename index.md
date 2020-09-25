@@ -5,19 +5,21 @@ We are excited to announce our [Systems Neuroecology seminar series](https://www
 ## Organizers:
 [Sama Ahmed](https://twitter.com/ColumboAhmed)
 
-![Sama Ahmed](images/2020/09/july2020_sama.jpg)
+<img src="images/2020/09/july2020_sama.jpg" width="300" />
+
 
 [Adam Calhoun](https://twitter.com/neuroecology)
 
-![Adam Calhoun](images/2020/09/adam.jpg)
+<img src="images/2020/09/adam.jpg" width="300" />
+
 
 [Emily Jane Dennis](https://twitter.com/emilyjanedennis)
 
-![Emily Jane Dennis](images/2020/09/emilydennis.jpg)
+<img src="images/2020/09/emilydennis.jpg" width="300" />
 
 [Ahmed El Hady](https://twitter.com/zamakany)
 
-![Ahmed El Hady](images/2020/09/ahmed.png)
+<img src="images/2020/09/ahmed.png" width="300" />
 
 Link to YouTube channel
 
