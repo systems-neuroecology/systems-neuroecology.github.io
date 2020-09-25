@@ -18,7 +18,7 @@ All talks are held Wednesdays from 12-1pm online through [World Wide Neuro](http
 
 ### October 7th
 **Dr. Adrienne Fairhall**
-*Title TBD*
+*Reverse engineering neural control of movement in Hydra*
 
 [event link](https://www.crowdcast.io/e/adrienne-fairhall) | [twitter](https://twitter.com/alfairhall) | [lab website](https://fairhalllab.com/)
 
