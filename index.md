@@ -3,23 +3,14 @@
 We are excited to announce our [Systems Neuroecology seminar series](https://www.worldwideneuro.com/seminar-series.html?name=Systems_Neuroecology) - bringing together a community of researchers interested in questions that span behavioral ecology, ethology, and systems neuroscience! Talks take place roughly every other **Wednesday starting at 12 noon EST.**
 
 ## Organizers:
+
+<img src="images/2020/09/july2020_sama.jpg" height="200" /> <img src="images/2020/09/adam.jpg" height="200" /> <img src="images/2020/09/emilydennis.jpg" height="200" /> <img src="images/2020/09/ahmed.png" height="200" />
+
+
 [Sama Ahmed](https://twitter.com/ColumboAhmed)
-
-<img src="images/2020/09/july2020_sama.jpg" width="300" />
-
-
-[Adam Calhoun](https://twitter.com/neuroecology)
-
-<img src="images/2020/09/adam.jpg" width="300" />
-
-
-[Emily Jane Dennis](https://twitter.com/emilyjanedennis)
-
-<img src="images/2020/09/emilydennis.jpg" width="300" />
-
-[Ahmed El Hady](https://twitter.com/zamakany)
-
-<img src="images/2020/09/ahmed.png" width="300" />
+ | [Adam Calhoun](https://twitter.com/neuroecology)
+  | [Emily Jane Dennis](https://twitter.com/emilyjanedennis)
+   | [Ahmed El Hady](https://twitter.com/zamakany)
 
 Link to YouTube channel
 
