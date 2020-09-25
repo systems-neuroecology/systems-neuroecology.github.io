@@ -42,7 +42,7 @@ All talks are held Wednesdays from 12-1pm online through [World Wide Neuro](http
 **Dr. Yossi Yovel**
 *On cognitive maps and reinforcement learning in large-scale animal behavior*
 
-[event link](https://www.crowdcast.io/e/yossi-yovel-systems) | [lab website](www.yossiyovel.com/ ...)
+[event link](https://www.crowdcast.io/e/yossi-yovel-systems) | [lab website](www.yossiyovel.com/)
 
 ### December 2nd
 **Dr. Dayu Lin**
@@ -50,36 +50,56 @@ All talks are held Wednesdays from 12-1pm online through [World Wide Neuro](http
 
 [event link](https://www.crowdcast.io/e/dayu-lin-systems) | [twitter](https://twitter.com/moccalin) | [lab website](http://linlab.med.nyu.edu/)
 
-### Date
-**Name**
-*Title TBD*
+### December 16th
+**Dr. Melissa Coleman**
+*Neural Mechanisms of Coordination in Duetting Wrens*
 
-[event link](link) | [twitter](https://twitter.com/) | [lab website](https://labsite/)
-### Date
-**Name**
-*Title TBD*
+[event link](https://www.crowdcast.io/e/melissa-coleman-systems) | [twitter](https://twitter.com/MelColemanLab) | [lab website](https://www.kecksci.claremont.edu/faculty/profile.asp?FacultyID=179)
 
-[event link](link) | [twitter](https://twitter.com/) | [lab website](https://labsite/)
+___________
+
+### January 13, 2021
+**Dr. Orit Peleg**
+*Collective Ecophysiology and Physics of Social Insects*
+
+[event link](https://www.crowdcast.io/e/orit-peleg-systems) | [twitter](https://twitter.com/oritpeleg) | [lab website](www.peleglab.com/)
+
+### January 20
+**Dr. Amy Toth**
+*Integrative Genomics of Paper Wasp Behavior: Molecular underpinnings of complex traits and insights into social evolution*
+
+[event link](https://www.crowdcast.io/e/amy-toth-systems) | [twitter](https://twitter.com/Amy_L_Toth) | [lab website](www.tothlab.org/)
+
+### February 3, 2021
+**Dr. Vivek Nityanada**
+*Stereo vision and prey detection in the praying mantis*
+
+[event link](https://www.crowdcast.io/e/vivek-nityananda-systems) | [twitter](https://twitter.com/VivekNityananda) | [lab website](https://www.worldwideneuro.com/viveknityananda.com)
+
 
 ## Past speakers
 Many talks are available at our [YouTube channel](link)
 
-Dr. Katherine Nagel
+[Dr. Piali Sengupta](https://www.worldwideneuro.com/seminar-event.html?id=521)
 
-Dr. John Tuthill
+[Dr. Lindy McBride](https://www.worldwideneuro.com/seminar-event.html?id=520)
 
-Dr. Michael Reiser
+[Dr. Andrew Gordus](https://www.worldwideneuro.com/seminar-event.html?id=118)
 
-Dr. Deborah Gordon
+[Dr. Vanessa Ruta](https://www.worldwideneuro.com/seminar-event.html?id=43)
 
-Dr. Natasha Mhatre
+[Dr. Benjamin de Bivort](https://www.worldwideneuro.com/seminar-event.html?id=44)
 
-Dr. Benjamin de Bivort
+[Dr. Natasha Mhatre](https://www.worldwideneuro.com/seminar-event.html?id=131)
 
-Dr. Vanessa Ruta
+[Dr. Deborah Gordon](https://www.worldwideneuro.com/seminar-event.html?id=50)
 
-Dr. Andrew Gordus
+[Dr. Michael Reiser](https://www.worldwideneuro.com/seminar-event.html?id=48)
+
+[Dr. John Tuthill](https://www.worldwideneuro.com/seminar-event.html?id=47)
+
+[Dr. Katherine Nagel](https://www.worldwideneuro.com/seminar-event.html?id=51)
 
 ## Past Seasons
 
-Season 1 (link above)
+Season 1: [Invertebrate Neuroecology](https://www.worldwideneuro.com/seminar-series.html?name=Invertebrate_Neuroecology) hosted by [Adam Calhoun](http://twitter.com/neuroecology)
