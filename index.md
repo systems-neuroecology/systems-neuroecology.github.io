@@ -11,12 +11,13 @@ We are excited to announce our [Systems Neuroecology seminar series](https://www
 
 <img src="images/2020/09/july2020_sama.jpg" height="100" /> <img src="images/2020/09/adam.jpg" height="100" /> <img src="images/2020/09/emilydennis.jpg" height="100" /> <img src="images/2020/09/ahmed.png" height="100" />
 
-Link to YouTube channel
-
 ## Upcoming speakers
 All talks are held Wednesdays from 12-1pm online through [World Wide Neuro](https://www.worldwideneuro.com/seminar-series.html?name=Systems_Neuroecology), links can be found below and [here](https://www.worldwideneuro.com/seminar-series.html?name=Systems_Neuroecology).
 
 ### October 7th
+
+<img src="images/2020/09/adriennefairhall.png" height="100" />
+
 **Dr. Adrienne Fairhall**
 *Reverse engineering neural control of movement in Hydra*
 
