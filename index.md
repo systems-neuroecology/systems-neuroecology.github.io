@@ -24,30 +24,50 @@ All talks are held Wednesdays from 12-1pm online through [World Wide Neuro](http
 [event link](https://www.crowdcast.io/e/adrienne-fairhall) | [twitter](https://twitter.com/alfairhall) | [lab website](https://fairhalllab.com/)
 
 ### October 21st
+
+
+<img src="images/2020/09/juliafischer.jpg" height="100" />
+
 **Dr. Julia Fischer**
 *Monkey Talk -- what studies about nonhuman primate vocal communication reveal about the evolution of speech*
 
 [event link](https://www.crowdcast.io/e/julia-fischer-systems) | [twitter](https://twitter.com/julxf) | [lab website](https://www.dpz.eu/en/unit/cognitive-ethology/about-us.html)
 
 ### November 4th
+
+
+<img src="images/2020/09/eugeniachiappe.jpg" height="100" />
+
 **Dr. Eugenia Chiappe**
 *Title TBD*
 
 [event link](https://www.crowdcast.io/e/eugenia-chiappe-systems) | [twitter](https://twitter.com/EugeChapadur) | [lab website](https://chiappelab.org/)
 
 ### November 25th
+
+
+<img src="images/2020/09/yossiyovel.jpg" height="100" />
+
 **Dr. Yossi Yovel**
 *On cognitive maps and reinforcement learning in large-scale animal behavior*
 
 [event link](https://www.crowdcast.io/e/yossi-yovel-systems) | [lab website](www.yossiyovel.com/)
 
 ### December 2nd
+
+
+<img src="images/2020/09/dayulin.jpg" height="100" />
+
 **Dr. Dayu Lin**
 *Neural mechanisms of aggression*
 
 [event link](https://www.crowdcast.io/e/dayu-lin-systems) | [twitter](https://twitter.com/moccalin) | [lab website](http://linlab.med.nyu.edu/)
 
 ### December 16th
+
+
+<img src="images/2020/09/melissacoleman.jpg" height="100" />
+
 **Dr. Melissa Coleman**
 *Neural Mechanisms of Coordination in Duetting Wrens*
 
@@ -57,17 +77,29 @@ All talks are held Wednesdays from 12-1pm online through [World Wide Neuro](http
 
 ### January 13, 2021
 **Dr. Orit Peleg**
+
+
+<img src="images/2020/09/oritpeleg.jpg" height="100" />
+
 *Collective Ecophysiology and Physics of Social Insects*
 
 [event link](https://www.crowdcast.io/e/orit-peleg-systems) | [twitter](https://twitter.com/oritpeleg) | [lab website](www.peleglab.com/)
 
 ### January 20
+
+
+<img src="images/2020/09/amytoth.jpg" height="100" />
+
 **Dr. Amy Toth**
 *Integrative Genomics of Paper Wasp Behavior: Molecular underpinnings of complex traits and insights into social evolution*
 
 [event link](https://www.crowdcast.io/e/amy-toth-systems) | [twitter](https://twitter.com/Amy_L_Toth) | [lab website](www.tothlab.org/)
 
 ### February 3, 2021
+
+
+<img src="images/2020/09/viveknityanada.jpg" height="100" />
+
 **Dr. Vivek Nityanada**
 *Stereo vision and prey detection in the praying mantis*
 
