@@ -69,7 +69,7 @@ All talks are held Wednesdays from 12-1pm online through [World Wide Neuro](http
 <img src="images/2020/09/melissacoleman.jpg" height="100" />
 
 **Dr. Melissa Coleman**
-*Neural Mechanisms of Coordination in Duetting Wrens*
+*Behavioral and Neural Mechanisms of Duet Singing in a Neotropical Wren*
 
 [event link](https://www.crowdcast.io/e/melissa-coleman-systems) | [twitter](https://twitter.com/MelColemanLab) | [lab website](https://www.kecksci.claremont.edu/faculty/profile.asp?FacultyID=179)
 
