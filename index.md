@@ -100,7 +100,7 @@ All talks are held Wednesdays from 12-1pm online through [World Wide Neuro](http
 
 <img src="images/2020/09/viveknityanada.jpg" height="100" />
 
-**Dr. Vivek Nityanada**
+**Dr. Vivek Nityananda**
 *Stereo vision and prey detection in the praying mantis*
 
 [event link](https://www.crowdcast.io/e/vivek-nityananda-systems) | [twitter](https://twitter.com/VivekNityananda) | [lab website](https://www.worldwideneuro.com/viveknityananda.com)
