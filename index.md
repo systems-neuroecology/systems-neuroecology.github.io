@@ -11,69 +11,7 @@ We are excited to announce our [Systems Neuroecology seminar series](https://www
 
 <img src="images/2020/09/july2020_sama.jpg" height="100" /> <img src="images/2020/09/adam.jpg" height="100" /> <img src="images/2020/09/emilydennis.jpg" height="100" /> <img src="images/2020/09/ahmed.png" height="100" />
 
-## Upcoming speakers
-All talks are held Wednesdays from 12-1pm online through [World Wide Neuro](https://www.worldwideneuro.com/seminar-series.html?name=Systems_Neuroecology), links can be found below and [here](https://www.worldwideneuro.com/seminar-series.html?name=Systems_Neuroecology).
-
-### October 7th
-
-<img src="images/2020/09/adriennefairhall.png" height="100" />
-
-**Dr. Adrienne Fairhall**
-*Reverse engineering neural control of movement in Hydra*
-
-[event link](https://www.crowdcast.io/e/adrienne-fairhall) | [twitter](https://twitter.com/alfairhall) | [lab website](https://fairhalllab.com/)
-
-### October 21st
-
-
-<img src="images/2020/09/juliafischer.jpg" height="100" />
-
-**Dr. Julia Fischer**
-*Monkey Talk -- what studies about nonhuman primate vocal communication reveal about the evolution of speech*
-
-[event link](https://www.crowdcast.io/e/julia-fischer-systems) | [twitter](https://twitter.com/julxf) | [lab website](https://www.dpz.eu/en/unit/cognitive-ethology/about-us.html)
-
-### November 4th
-
-
-<img src="images/2020/09/eugeniachiappe.jpg" height="100" />
-
-**Dr. Eugenia Chiappe**
-*Title TBD*
-
-[event link](https://www.crowdcast.io/e/eugenia-chiappe-systems) | [twitter](https://twitter.com/EugeChapadur) | [lab website](https://chiappelab.org/)
-
-### November 25th
-
-
-<img src="images/2020/09/yossiyovel.jpg" height="100" />
-
-**Dr. Yossi Yovel**
-*On cognitive maps and reinforcement learning in large-scale animal behavior*
-
-[event link](https://www.crowdcast.io/e/yossi-yovel-systems) | [lab website](www.yossiyovel.com/)
-
-### December 2nd
-
-
-<img src="images/2020/09/dayulin.jpg" height="100" />
-
-**Dr. Dayu Lin**
-*Neural mechanisms of aggression*
-
-[event link](https://www.crowdcast.io/e/dayu-lin-systems) | [twitter](https://twitter.com/moccalin) | [lab website](http://linlab.med.nyu.edu/)
-
-### December 16th
-
-
-<img src="images/2020/09/melissacoleman.jpg" height="100" />
-
-**Dr. Melissa Coleman**
-*Behavioral and Neural Mechanisms of Duet Singing in a Neotropical Wren*
-
-[event link](https://www.crowdcast.io/e/melissa-coleman-systems) | [twitter](https://twitter.com/MelColemanLab) | [lab website](https://www.kecksci.claremont.edu/faculty/profile.asp?FacultyID=179)
-
-### 2021
+## Upcoming Speakers
 
 ### January 13, 2021
 **Dr. Orit Peleg**
@@ -106,8 +44,102 @@ All talks are held Wednesdays from 12-1pm online through [World Wide Neuro](http
 [event link](https://www.crowdcast.io/e/vivek-nityananda-systems) | [twitter](https://twitter.com/VivekNityananda) | [lab website](https://www.worldwideneuro.com/viveknityananda.com)
 
 
-## Past speakers
+### February 17, 2021
+
+<img src="images/2021/ben-hayden.jpeg" height="100" />
+
+**Dr. Ben Hayden**
+*Title TBD*
+
+[event link](https://www.crowdcast.io/e/dr--ben-hayden) | [twitter](https://twitter.com/NeuroPolarbear) | [lab website](https://www.haydenlab.com/)
+
+### March 17, 2021
+
+<img src="images/2021/manon-schweinfurth.jpg" height="100" />
+
+**Dr. Manon Schweinfurth**
+*The evolutionary and psychological origins of reciprocal cooperation*
+
+[event link](https://www.crowdcast.io/e/dr--manon-schweinfurth) | [twitter](https://twitter.com/ManonSchweinfu1) | [lab website](https://manon-schweinfurth.jimdofree.com/)
+
+### March 31, 2021
+
+<img src="images/2021/shaz-zamore.jpg" height="100" />
+
+**Dr. Shaz Zamore**
+*Title TBD*
+
+[event link](https://www.crowdcast.io/e/dr--shaz-zamore-systems) | [twitter](https://twitter.com/TheDoctaZ) | [ website](https://curiousdrz.com/)
+
+## Past Speakers
+
 Many talks are available at our [YouTube channel](link)
+
+All talks are held Wednesdays from 12-1pm online through [World Wide Neuro](https://www.worldwideneuro.com/seminar-series.html?name=Systems_Neuroecology), links can be found below and [here](https://www.worldwideneuro.com/seminar-series.html?name=Systems_Neuroecology).
+
+## 2020
+
+### December 16th
+
+
+<img src="images/2020/09/melissacoleman.jpg" height="100" />
+
+**Dr. Melissa Coleman**
+*Behavioral and Neural Mechanisms of Duet Singing in a Neotropical Wren*
+
+
+
+[event link](https://www.crowdcast.io/e/melissa-coleman-systems) | [twitter](https://twitter.com/MelColemanLab) | [lab website](https://www.kecksci.claremont.edu/faculty/profile.asp?FacultyID=179)
+
+### December 2nd
+
+
+<img src="images/2020/09/dayulin.jpg" height="100" />
+
+**Dr. Dayu Lin**
+*Neural mechanisms of aggression*
+
+[event link](https://www.crowdcast.io/e/dayu-lin-systems) | [twitter](https://twitter.com/moccalin) | [lab website](http://linlab.med.nyu.edu/)
+
+### November 25th
+
+
+<img src="images/2020/09/yossiyovel.jpg" height="100" />
+
+**Dr. Yossi Yovel**
+*On cognitive maps and reinforcement learning in large-scale animal behavior*
+
+[event link](https://www.crowdcast.io/e/yossi-yovel-systems) | [lab website](www.yossiyovel.com/)
+
+
+### November 4th
+
+
+<img src="images/2020/09/eugeniachiappe.jpg" height="100" />
+
+**Dr. Eugenia Chiappe**
+
+[event link](https://www.crowdcast.io/e/eugenia-chiappe-systems) | [twitter](https://twitter.com/EugeChapadur) | [lab website](https://chiappelab.org/)
+
+
+
+### October 21st
+
+<img src="images/2020/09/juliafischer.jpg" height="100" />
+
+**Dr. Julia Fischer**
+*Monkey Talk -- what studies about nonhuman primate vocal communication reveal about the evolution of speech*
+
+[event link](https://www.crowdcast.io/e/julia-fischer-systems) | [twitter](https://twitter.com/julxf) | [lab website](https://www.dpz.eu/en/unit/cognitive-ethology/about-us.html)
+
+
+### October 7th
+<img src="images/2020/09/adriennefairhall.png" height="100" />
+
+**Dr. Adrienne Fairhall**
+*Reverse engineering neural control of movement in Hydra*
+
+[event link](https://www.crowdcast.io/e/adrienne-fairhall) | [twitter](https://twitter.com/alfairhall) | [lab website](https://fairhalllab.com/)
 
 [Dr. Piali Sengupta](https://www.worldwideneuro.com/seminar-event.html?id=521)
 
