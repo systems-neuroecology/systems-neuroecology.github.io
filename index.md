@@ -71,19 +71,19 @@ We are excited to announce our [Systems Neuroecology seminar series](https://www
 
 ### April 28, 2021
 
+<img src="images/2021/mpr.jpg" height="100" />
+
 **Dr. Megan Phifer-Rixey**
 *Evolutionary genetics in wild house mice*
-
-<img src="images/2021/mpr.jpg" height="100" />
 
 [event link](https://www.crowdcast.io/e/dr--megan-phifer-rixey-systems) | [twitter](https://twitter.com/RixeyMegan) | [lab website](http://phiferrixeylab.com/)
 
 ### May 26, 2021
 
+<img src="images/2021/kim-hoke.jpg" height="100" />
+
 **Dr. Kim Hoke**
 *title TBD*
-
-<img src="images/2021/kim-hoke.jpg" height="100" />
 
 [event link](https://www.crowdcast.io/e/dr--kim-hoke-systems) | [twitter](https://twitter.com/HokeCSU) | [lab website](http://hokelab.weebly.com/)
 
