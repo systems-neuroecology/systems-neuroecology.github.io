@@ -11,7 +11,7 @@ We are excited to announce our [Systems Neuroecology seminar series](https://www
 
 <img src="images/2020/09/july2020_sama.jpg" height="100" /> <img src="images/2020/09/adam.jpg" height="100" /> <img src="images/2020/09/emilydennis.jpg" height="100" /> <img src="images/2020/09/ahmed.png" height="100" />
 
-## Upcoming Speakers
+## 2021 Speakers
 
 ### January 13, 2021
 **Dr. Orit Peleg**
@@ -70,6 +70,21 @@ We are excited to announce our [Systems Neuroecology seminar series](https://www
 *Title TBD*
 
 [event link](https://www.crowdcast.io/e/dr--shaz-zamore-systems) | [twitter](https://twitter.com/TheDoctaZ) | [ website](https://curiousdrz.com/)
+
+### April 28, 2021
+
+**Dr. Megan Phifer-Rixey**
+*Evolutionary genetics in wild house mice*
+
+[event link](https://www.crowdcast.io/e/dr--megan-phifer-rixey-systems) | [twitter](https://twitter.com/RixeyMegan) | [lab website](http://phiferrixeylab.com/)
+
+### May 26, 2021
+
+**Dr. Kim Hoke**
+*title TBD*
+
+[event link](https://www.crowdcast.io/e/dr--kim-hoke-systems) | [twitter](https://twitter.com/HokeCSU) | [lab website](http://hokelab.weebly.com/)
+
 
 ## Past Speakers
 
