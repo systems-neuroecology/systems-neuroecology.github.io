@@ -15,11 +15,9 @@ We are excited to announce our [Systems Neuroecology seminar series](https://www
 
 ### January 13, 2021
 **Dr. Orit Peleg**
-
+*Collective Ecophysiology and Physics of Social Insects*
 
 <img src="images/2020/09/oritpeleg.jpg" height="100" />
-
-*Collective Ecophysiology and Physics of Social Insects*
 
 [event link](https://www.crowdcast.io/e/orit-peleg-systems) | [twitter](https://twitter.com/oritpeleg) | [lab website](www.peleglab.com/)
 
@@ -76,12 +74,16 @@ We are excited to announce our [Systems Neuroecology seminar series](https://www
 **Dr. Megan Phifer-Rixey**
 *Evolutionary genetics in wild house mice*
 
+<img src="images/2021/mpr.jpg" height="100" />
+
 [event link](https://www.crowdcast.io/e/dr--megan-phifer-rixey-systems) | [twitter](https://twitter.com/RixeyMegan) | [lab website](http://phiferrixeylab.com/)
 
 ### May 26, 2021
 
 **Dr. Kim Hoke**
 *title TBD*
+
+<img src="images/2021/kim-hoke.jpg" height="100" />
 
 [event link](https://www.crowdcast.io/e/dr--kim-hoke-systems) | [twitter](https://twitter.com/HokeCSU) | [lab website](http://hokelab.weebly.com/)
 
