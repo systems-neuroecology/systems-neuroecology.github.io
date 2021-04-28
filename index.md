@@ -76,7 +76,7 @@ We are excited to announce our [Systems Neuroecology seminar series](https://www
 **Dr. Megan Phifer-Rixey**
 *Evolutionary genetics in wild house mice*
 
-[event link](https://www.crowdcast.io/e/dr--megan-phifer-rixey-systems) | [twitter](https://twitter.com/RixeyMegan) | [lab website](http://phiferrixeylab.com/)
+[event link](https://www.crowdcast.io/e/dr--megan-phifer-rixey) | [twitter](https://twitter.com/RixeyMegan) | [lab website](http://phiferrixeylab.com/)
 
 ### May 26, 2021
 
